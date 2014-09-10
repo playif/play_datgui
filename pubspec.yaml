@@ -1,0 +1,3 @@
+name: play_datgui
+dependencies:
+  browser: any
